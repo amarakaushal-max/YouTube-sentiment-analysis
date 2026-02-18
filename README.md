@@ -1,2 +1,2 @@
-There are many YouTube creators in the world but most of them dont know how veiwers feel about their video. Sure the number of comments and views might explain it, but analyzing the comments is another way of knowing if people like your project or not.
+There are many YouTube creators in the world but most of them don't know how veiwers feel about their content. Sure the number of comments and views might explain it, but analyzing the comments is another way of knowing if people like your content or not.
 As you know that it is not easy to analyze hunderds of comments so we developed a solution which would analyze all the comments within seconds and return the results in the form of word clouds and pie chart.
